@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @pragatiravi
 - 👀 I’m interested in coding and ai fascinates me alot.
 - 🌱 I’m currently learning webdevelopment and cybersecurity.
+- I am a frontend developer.
 - 💞️ I’m looking to collaborate on realtime projects.
 - 📫 How to reach me at pragatigangoji218@gmail.com
 
